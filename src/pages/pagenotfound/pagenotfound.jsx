@@ -8,7 +8,7 @@ function PageNotFound() {
                 Page not found
             </div>
             <div className="article">
-                move to <Link to='/'>Homepage</Link>
+                move to <Link to='./'>Homepage</Link>
             </div>
         </div>
     );
